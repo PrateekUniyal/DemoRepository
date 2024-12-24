@@ -2,3 +2,5 @@ This is the file that prints HELLO.
 This line is added after pushing to repository.
 The Changes have been made.
 This is another change!
+Checking the merge conflict.
+***************************
