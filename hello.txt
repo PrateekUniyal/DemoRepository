@@ -3,5 +3,7 @@ This line is added after pushing to repository.
 The Changes have been made.
 This is another change!
 Checking the merge conflict.
-************DONE****************
-
+<<<<<<< HEAD
+**********************
+New line added.
+**********DONE**********
