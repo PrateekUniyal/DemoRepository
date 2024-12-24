@@ -4,3 +4,5 @@ The Changes have been made.
 This is another change!
 Checking the merge conflict.
 ***************************
+********************************
+********************************
